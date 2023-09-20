@@ -1,0 +1,9 @@
+unmanaged implementation in class zbp_traveltest unique;
+
+define behavior for ZTRAVELTEST
+
+{
+
+create;
+
+}

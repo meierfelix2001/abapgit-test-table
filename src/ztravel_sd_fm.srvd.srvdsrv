@@ -1,0 +1,5 @@
+@EndUserText.label: 'Travel SD'
+define service ZTRAVEL_SD_FM {
+  expose ZTRAVELTEST;
+  expose /DMO/I_Agency;
+}
